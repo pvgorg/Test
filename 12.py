@@ -4,7 +4,7 @@ from datetime import datetime
 import random
 import pytz
 
-os.system("pip install apscheduler && pip install datetime && pip install pyrogram && pip install pytz && pip install time && pip install random && pip install requests && pip install json ")
+#os.system("pip install apscheduler && pip install datetime && pip install pyrogram && pip install pytz && pip install time && pip install random && pip install requests && pip install json ")
 
 api_id = 13969248
 api_hash = "6e7fe82b1a542bcd0fe485d944d2397a"
