@@ -9,7 +9,7 @@ os.system("pip install apscheduler && pip install datetime && pip install pyrogr
 api_id = 13969248
 api_hash = "6e7fe82b1a542bcd0fe485d944d2397a"
 bot = Client("my_account", api_id=api_id, api_hash=api_hash)
-admin = 0000
+admin = 6269236660
 
 fonts = {
     'Font1' : { '0': '𝟎','1': '𝟏','2': '𝟐','3': '𝟑','4': '𝟒','5': '𝟓','6': '𝟔','7': '𝟕','8': '𝟖','9': '𝟗' },
